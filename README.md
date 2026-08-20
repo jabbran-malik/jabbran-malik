@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Jabbran 👋<br><br>I'm a Full Stack Developer with a passion for building scalable, <br>production-ready SaaS applications. I work primarily with Next.js, <br>NestJS, TypeScript, and PostgreSQL, and I love turning complex <br>problems into clean, efficient solutions.<br><br>🔭 Currently freelancing and working on scalable web apps<br>🌱 Always learning and exploring new tools in the JS/TS ecosystem<br>💬 Ask me about React, Node.js, or backend architecture<br>📫 Reach out via LinkedIn or Email
+👋<br><br>I'm a Full Stack Developer with a passion for building scalable, <br>production-ready SaaS applications. I work primarily with Next.js, <br>NestJS, TypeScript, and PostgreSQL, and I love turning complex <br>problems into clean, efficient solutions.<br><br>🔭 Currently freelancing and working on scalable web apps<br>🌱 Always learning and exploring new tools in the JS/TS ecosystem<br>💬 Ask me about React, Node.js, or backend architecture<br>📫 Reach out via LinkedIn or Email
 
 
 ## 🌐 Socials:
