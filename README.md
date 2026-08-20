@@ -15,7 +15,4 @@ Hi, I'm Jabbran 👋<br><br>I'm a Full Stack Developer with a passion for buildi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jabbran-malik&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=jabbran-malik&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
